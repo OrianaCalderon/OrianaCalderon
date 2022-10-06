@@ -3,15 +3,14 @@ Oriana Calderón
 
 Software Developer 💻
 ----------------------
-Siempre dispuesta a contribuir al desarrollo de un proyecto, aportando mi experiencia académica, a través de mis principales fortalezas: adaptabilidad y pro actividad.
+Siempre dispuesta a contribuir al desarrollo de proyectos, aportando mis conocimientos, a través de mis principales fortalezas: adaptabilidad y pro actividad.
 
 
 *   🧠  Dispuesta a aprender cosas nuevas todos los días
 *   🔭  Trabajando actualmente en Ser-U
-*   ✉️  Me puedes contactar por: 
- -[orianasofia86@gmail.com](mailto:orianasofia86@gmail.com)
- - +584242435169
- - https://www.linkedin.com/in/oriana-calderon-834a8a24b/
+*   ✉️  Me puedes contactar por: [orianasofia86@gmail.com](mailto:orianasofia86@gmail.com)
+
+
                                 
 ### Skills
 <p align="left">
