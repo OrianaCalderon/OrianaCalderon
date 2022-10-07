@@ -9,6 +9,7 @@ Siempre dispuesta a contribuir al desarrollo de proyectos, aportando mis conocim
 *   🧠  Dispuesta a aprender cosas nuevas todos los días
 *   🔭  Trabajando actualmente en Ser-U
 *   ✉️  Me puedes contactar por: [orianasofia86@gmail.com](mailto:orianasofia86@gmail.com)
+*   :globe_with_meridians: Visita mi Linkedin https://www.linkedin.com/in/oriana-calderon-834a8a24b/
 
 
                                 
