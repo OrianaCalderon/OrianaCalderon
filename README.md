@@ -1,8 +1,6 @@
 <h1 align="center">Hola👋, mi nombre es Oriana Calderón</h1>
 <h3 align="center">Soy Software Developer siempre dispuesta a contribuir al desarrollo de proyectos, aportando mis conocimientos, a través de mis principales fortalezas: adaptabilidad y pro actividad.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Ser-U](https://github.com/JetPi/serv-u)
-
 - 🌱 Siempre adquiriendo **nuevos conocimientos**
 
 - 👨‍💻 Mis proyectos [https://github.com/OrianaCalderon?tab=repositories](https://github.com/OrianaCalderon?tab=repositories)
